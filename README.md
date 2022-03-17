@@ -1,7 +1,8 @@
 # goalApp
+
 The generated AAB can be found under android/app/build/outputs/bundle/release/app-release.aab, and is ready to be uploaded to Google Play.
 
-#Usage with Expo Client App
+# Usage with Expo Client App
 
 Expo Client enables you to work with all of the Components and APIs in react-native, as well as the JavaScript APIs that the are bundled with the Expo App.
 
