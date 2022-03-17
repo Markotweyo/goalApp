@@ -1,6 +1,11 @@
 # goalApp
 
-The generated AAB can be found under android/app/build/outputs/bundle/release/app-release.aab, and is ready to be uploaded to Google Play.
+The generated AAB can be found under https://expo.dev/accounts/marikotweyo/projects/goalApp/builds/6388d36d-2920-4359-ae70-fc30388488d6, and is ready to be uploaded to Google Play.
+
+# Test on your machine
+
+To test it on your device or simulator Android,
+To run it on your Android emulator, first build your project with the apk flag by running expo build:android -t apk, and you can drag and drop the .apk file into the emulator or drag and rop the .apk file in the root folder into android emulator.
 
 # Preview
 
